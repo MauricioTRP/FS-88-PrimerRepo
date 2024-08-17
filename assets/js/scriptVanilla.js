@@ -4,6 +4,7 @@
  */
 
 // cuando el documento esté listo
+// cambio
 document.addEventListener("DOMContentLoaded", function() {
   // ejecuta esto
   
